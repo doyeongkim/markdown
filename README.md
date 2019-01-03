@@ -58,7 +58,8 @@
 
 3. 이미지 (Image): 이미지를 삽입하고 싶을땐 아래 syntax를 사용한다.
    
-   Format: ![Alt Text](url)
+   ![Alt Text](url)
+   
    ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 4. 코드 (Code)
