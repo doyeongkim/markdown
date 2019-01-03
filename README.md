@@ -66,14 +66,8 @@
    4.1 Inline code block: `(back quote)로 텍스트를 감싸 사용한다.
    
    eg) `var example = true`
-   
-   4.2 Longer block of code: 4개의 공백 혹은 하나의 탭으로 들여쓰기를 한다.
-   
-   if (isAwesome) { 
-      return true
-   }
-   
-   4.3 Code fencing:
+      
+   4.2 Code fencing:
    
    eg)
    
