@@ -10,9 +10,10 @@
 
    1.1 강조: 마크다운으로 단어들을 굵거나 기울임 꼴로 표시해 강조하는것은 매우 쉽다.
    
-   eg) **word** 혹은 __word__ 와 같이 ** / __ 을 사용하면 단어가 굵게 표시
-       *word* 혹은 _word_ 와 같이 * / _ 을 사용하면 단어가 기울여져 표시
-       _word1 **word2** combine them_ 와 같이 둘 다 같이 사용할 수도 있다.
+   eg) 
+   **word** 혹은 __word__ 와 같이 ** / __ 을 사용하면 단어가 굵게 표시.
+   *word* 혹은 _word_ 와 같이 * / _ 을 사용하면 단어가 기울여져 표시.
+   _word1 **word2** combine them_ 와 같이 둘 다 같이 사용할 수도 있다.
  
    1.2 링크:
    
@@ -23,18 +24,20 @@
        
    1.3 헤더: 헤더를 쓰기 위해서는 # 문자로 시작한다. 헤더에는 총 6개의 레벨이 있고 숫자가 높아질 수록 헤더 사이즈가 작아진다.
    
-   eg) # This is H1
-       ## This is H2
-       ### This is H3
-       #### This is H4
-       ##### This is H5
-       ###### This is H6
+   eg) 
+   # This is H1
+   ## This is H2
+   ### This is H3
+   #### This is H4
+   ##### This is H5
+   ###### This is H6
    
    1.4 인용: 다른 사람의 말을 인용할땐 블럭인용 '>' 문자를 사용하면 된다.
    
-   eg) As Kanye West said:
-       > Coffee. The finest organic suspension ever devised... I beat the Borg with it.
-       > We're living the future so the present is our past.
+   eg) 
+   As Kanye West said:
+   > Coffee. The finest organic suspension ever devised... I beat the Borg with it.
+   > We're living the future so the present is our past.
 
 2. 목록 (List)
 
@@ -66,10 +69,10 @@
    
    4.2 Longer block of code: 4개의 공백 혹은 하나의 탭으로 들여쓰기를 한다.
    
-   eg)    
-        if (isAwesome) { 
-          return true
-        }
+   eg)
+         if (isAwesome) { 
+            return true
+         }
    
    4.3 Code fencing:
    
@@ -101,7 +104,8 @@ if (isAwsome) {
 
    5.3 코멘트 보내기: 혹시 누군가에게 코멘트를 보내고 싶다면, 유저 이름 앞에 @ 를 붙일 수 있다.
    
-   eg) Hey @kneath - I like your sweater!
+   eg) 
+   Hey @doyeongkim - I like your sweater!
    
    5.4 테이블 (Table): 단어 목록을 조합하고 그 단어들을 하이픈 (첫번째 행)으로 나눈 다음, 각 열을 파이프로 분리하여 테이블을 만들 수 있다.
    
