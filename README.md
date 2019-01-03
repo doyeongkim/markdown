@@ -69,10 +69,9 @@
    
    4.2 Longer block of code: 4개의 공백 혹은 하나의 탭으로 들여쓰기를 한다.
    
-   eg)
-         if (isAwesome) { 
-            return true
-         }
+   if (isAwesome) { 
+      return true
+   }
    
    4.3 Code fencing:
    
